@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
 
+Link reference this lab: [Publish Package on NPM Portal](https://imasters.com.br/desenvolvimento/publicando-modulo-angular-4-no-npm/?trace=1519021197&source=single)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
